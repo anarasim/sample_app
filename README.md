@@ -1,3 +1,9 @@
+# Ruby on Rails tutorial: sample application
+This is a sample application
+This is the entry added by Amith
+
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
